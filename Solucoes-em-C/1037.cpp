@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-
+//oi
 	float x;
 	scanf ("%f", &x);
 	if (x>=0  && x<=25)
